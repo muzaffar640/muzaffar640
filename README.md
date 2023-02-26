@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iammuzaffar640" target="blank"><img src="https://img.shields.io/twitter/follow/iammuzaffar640?logo=twitter&style=for-the-badge" alt="iammuzaffar640" /></a> </p>
 
-- 🌱 I’m currently learning **Backend with Java**
+- 🌱 I’m currently learning **Backend with nodejs, geaphQL, aws amplify...**
 
 - 💬 Ask me about **Frontend, Javascript, React**
 
